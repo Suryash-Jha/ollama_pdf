@@ -1,0 +1,1 @@
+# Ollama connection using python llama3.2
